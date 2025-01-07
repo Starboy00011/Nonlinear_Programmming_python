@@ -1,0 +1,1 @@
+This consist of Non linear programming codes in python ( reference is medium , https://gaurav-adarshi.medium.com/nonlinear-programming-optimization-df65f0576998#:~:text=Non%2Dlinear%20programming%20(NLP),and%20the%20constraints%20are%20linear.)
